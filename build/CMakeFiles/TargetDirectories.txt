@@ -1,0 +1,4 @@
+/home/kobzink/SpLab4/build/CMakeFiles/calculator.dir
+/home/kobzink/SpLab4/build/CMakeFiles/calculator_app.dir
+/home/kobzink/SpLab4/build/CMakeFiles/edit_cache.dir
+/home/kobzink/SpLab4/build/CMakeFiles/rebuild_cache.dir
